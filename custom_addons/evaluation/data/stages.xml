@@ -1,0 +1,23 @@
+<odoo>
+	<data>
+		<record id="1" model="libersys.evaluation.stage">
+			<field name="name">New</field>
+		</record>
+
+		<record id="2" model="libersys.evaluation.stage">
+			<field name="name">Assigned</field>
+		</record>
+
+		<record id="3" model="libersys.evaluation.stage">
+			<field name="name">Pending Input</field>
+		</record>
+
+		<record id="4" model="libersys.evaluation.stage">
+			<field name="name">Closed - Unsuccessful</field>
+		</record>
+
+		<record id="5" model="libersys.evaluation.stage">
+			<field name="name">Closed - Successful</field>
+		</record>
+	</data>
+</odoo>
